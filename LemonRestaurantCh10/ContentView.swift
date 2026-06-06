@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "keyboard.fill")
+            Image(systemName: "graduationcap.fill")
                 .imageScale(.large)
                 .foregroundStyle(.red)
             Text("Cohort 10!")
